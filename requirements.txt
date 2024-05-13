@@ -1,0 +1,12 @@
+dash
+dash_bootstrap_components
+pandas
+python-dotenv
+gunicorn
+dash-tools
+geopandas
+openpyxl
+plotly.express
+geopandas
+unidecode
+sodapy
